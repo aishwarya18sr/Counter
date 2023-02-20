@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Counter should render correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="counterContainer"
+  >
+    <p
+      class="counterValue"
+    >
+      0
+    </p>
+    <div
+      class="counterButtonContainer"
+    >
+      <button
+        class="counterButton"
+        type="button"
+      >
+        +
+      </button>
+      <button
+        class="counterButton"
+        type="button"
+      >
+        -
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;

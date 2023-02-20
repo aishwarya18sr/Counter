@@ -18,7 +18,7 @@ const Counter = () => {
           type="button"
           className="counterButton"
           onClick={() => {
-            if (counter > 1) {
+            if (counter > 0) {
               setCounter(counter - 1);
             } else {
               setCounter(0);
